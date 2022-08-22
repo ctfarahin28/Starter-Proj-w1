@@ -14,7 +14,6 @@ import {
 export class LandingComponent {
   taskForm;
   fname;
-  // title = 'Angular Form Validation Tutorial';
   // angForm: FormGroup;
   // constructor(private fb: FormBuilder) {
   //   this.createForm();
