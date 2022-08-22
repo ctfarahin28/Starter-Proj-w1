@@ -1,0 +1,10 @@
+:host {
+  display: block;
+  background-color: #212121;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 0;
+}
